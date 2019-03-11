@@ -38,8 +38,8 @@ $container = get_theme_mod( 'understrap_container_type' );
 
         <div class="row mbr-justify-content-center">
         
-            <div class="col-lg-4 mbr-col-md-10">
-                <div class="wrap">
+            <div class="col-lg-6 mbr-col-md-10">
+                <a href="#"><div class="wrap">
                     <div class="ico-wrap">
                         <span class="mbr-iconfont fa-desktop fa"></span>
                     </div>
@@ -48,10 +48,10 @@ $container = get_theme_mod( 'understrap_container_type' );
                         <p class="mbr-fonts-style text1 mbr-text display-6">Lorem Ipsum is simply dummy text of the printing and
                             typesetting industry. Lorem Ipsum</p>
                     </div>
-                </div>
+                </div></a>
             </div>
-            <div class="col-lg-4 mbr-col-md-10">
-                <div class="wrap">
+            <div class="col-lg-6 mbr-col-md-10">
+                <a href="#"><div class="wrap">
                     <div class="ico-wrap">
                         <span class="mbr-iconfont fa-code fa"></span>
                     </div>
@@ -62,24 +62,9 @@ $container = get_theme_mod( 'understrap_container_type' );
                         <p class="mbr-fonts-style text1 mbr-text display-6">Lorem Ipsum is simply dummy text of the printing and
                             typesetting industry. Lorem Ipsum</p>
                     </div>
-                </div>
-            </div>
-            
-            <div class="col-lg-4 mbr-col-md-10">
-                <div class="wrap">
-                    <div class="ico-wrap">
-                        <span class="mbr-iconfont fa-palette fa"></span>
-                    </div>
-                    <div class="text-wrap vcenter">
-                        <h2 class="mbr-fonts-style mbr-bold mbr-section-title3 display-5">Graphic <span>Design</span></h2>
-                        <p class="mbr-fonts-style text1 mbr-text display-6">Lorem Ipsum is simply dummy text of the printing and
-                            typesetting industry. Lorem Ipsum</p>
-                    </div>
-                </div>
-            </div>
-        
-        
-        
+                </div></a>
+            </div>    
+               
         
         </div>
     </div>
